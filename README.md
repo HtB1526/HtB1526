@@ -11,9 +11,5 @@
 - Сейчас я изучаю Node.js, чтобы мой обфускатор все лучше и лучше
 - Я часто пишу скрипты со своим лучшим другом @Freebobux228rblx
 - Я создал своего бота в дискорде который может превратить ваш LuaU или Lua код в хорошо-обфусцированный скрипт 
-
-**
 [![HtB#1526's GitHub stats](https://github-readme-stats.vercel.app/api?username=HtB1526&show_icons=true&layout=compact&theme=dark)](https://github.com/HtB1526)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HtB1526&layout=compact&theme=dark)](https://github.com/HtB1526)
-**
