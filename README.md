@@ -1,8 +1,7 @@
-
 ### About me
 - `sleep? what is this`
-- Lead Dev @ ArxBypass
-- Dev @ Solar API
+- Lead Dev @ **[ArxBypass](https://t.me/arxbypass)**
+- Dev @ **[Solar API](https://solar-x.top)**
 ### Stats :
 [![HtB#1526's GitHub stats](https://github-readme-stats.vercel.app/api?username=HtB1526&show_icons=true&layout=compact&theme=dark)](https://github.com/HtB1526)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HtB1526&layout=compact&theme=dark)](https://github.com/HtB1526)
